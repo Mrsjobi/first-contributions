@@ -31,7 +31,7 @@
 - [Sudeshna Saha](https://github.com/sudeshna-s03)
 - [Oussama Bernou](https://github.com/0ussamaBernou)
 - [Dapo Adedire](https://github.com/dapoadedire)
-- [Damola Igbalajobi]
+- [Damola Igbalajobi](https://github.com/Mrsjobi)
 - [Lisa Thamer](https://github.com/CandidDeer)
 - [Amir Soleimanian](https://github.com/CoachAlpha)
 - [Moses Samanhyia](https://github.com/starlabelgh)
